@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/42b4627c699140289030af74c728d6d4/artifacts
+end_time: 1780830489216
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 42b4627c699140289030af74c728d6d4
+run_name: dazzling-lamb-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830485872
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

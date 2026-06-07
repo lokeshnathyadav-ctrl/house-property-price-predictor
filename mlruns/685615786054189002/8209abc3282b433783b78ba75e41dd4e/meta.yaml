@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/8209abc3282b433783b78ba75e41dd4e/artifacts
+end_time: 1780830809115
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 8209abc3282b433783b78ba75e41dd4e
+run_name: ambitious-bee-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830805816
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a865940d5f7249e89f5ad96ba16339b4/artifacts
+end_time: 1780836703965
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a865940d5f7249e89f5ad96ba16339b4
+run_name: grandiose-stoat-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836700666
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f705e5d61ded440eb571d9af79027c2c/artifacts
+end_time: 1780831148254
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f705e5d61ded440eb571d9af79027c2c
+run_name: clean-bass-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831144995
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

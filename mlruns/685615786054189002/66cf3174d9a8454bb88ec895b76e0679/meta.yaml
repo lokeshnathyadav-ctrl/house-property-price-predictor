@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/66cf3174d9a8454bb88ec895b76e0679/artifacts
+end_time: 1780831742655
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 66cf3174d9a8454bb88ec895b76e0679
+run_name: beautiful-whale-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831739302
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

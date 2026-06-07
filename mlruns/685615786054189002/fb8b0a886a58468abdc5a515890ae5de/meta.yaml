@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/fb8b0a886a58468abdc5a515890ae5de/artifacts
+end_time: 1780825965390
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: fb8b0a886a58468abdc5a515890ae5de
+run_name: luminous-tern-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825962201
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

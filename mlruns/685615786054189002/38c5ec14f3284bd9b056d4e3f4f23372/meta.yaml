@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/38c5ec14f3284bd9b056d4e3f4f23372/artifacts
+end_time: 1780834835370
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 38c5ec14f3284bd9b056d4e3f4f23372
+run_name: thundering-crane-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834832203
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

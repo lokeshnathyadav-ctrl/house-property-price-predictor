@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/5e249c3dc0f544dc9b9a0cb5eeaad457/artifacts
+end_time: 1780832315956
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 5e249c3dc0f544dc9b9a0cb5eeaad457
+run_name: dashing-bug-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832312501
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

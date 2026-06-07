@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/8f1713ea82de4b028b8da067a7691ed5/artifacts
+end_time: 1780835032224
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 8f1713ea82de4b028b8da067a7691ed5
+run_name: abrasive-lynx-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835028887
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

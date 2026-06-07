@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/4c1a4d29117542a7911e8f55accb4caa/artifacts
+end_time: 1780833654885
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 4c1a4d29117542a7911e8f55accb4caa
+run_name: secretive-turtle-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833651497
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

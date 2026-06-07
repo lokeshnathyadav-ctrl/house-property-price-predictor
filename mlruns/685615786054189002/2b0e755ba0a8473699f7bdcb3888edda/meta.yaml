@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/2b0e755ba0a8473699f7bdcb3888edda/artifacts
+end_time: 1780831184194
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 2b0e755ba0a8473699f7bdcb3888edda
+run_name: stately-fawn-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831180965
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

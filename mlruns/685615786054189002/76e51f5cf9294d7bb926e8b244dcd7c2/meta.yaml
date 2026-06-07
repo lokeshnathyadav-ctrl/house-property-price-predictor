@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/76e51f5cf9294d7bb926e8b244dcd7c2/artifacts
+end_time: 1780827485002
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 76e51f5cf9294d7bb926e8b244dcd7c2
+run_name: sneaky-ram-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827481777
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

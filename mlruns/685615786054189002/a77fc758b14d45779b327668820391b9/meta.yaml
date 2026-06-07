@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a77fc758b14d45779b327668820391b9/artifacts
+end_time: 1780830570114
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a77fc758b14d45779b327668820391b9
+run_name: polite-snipe-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830566776
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

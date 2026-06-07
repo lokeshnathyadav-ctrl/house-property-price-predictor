@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/2213899e27f248b393cebe1930c095c4/artifacts
+end_time: 1780830484576
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 2213899e27f248b393cebe1930c095c4
+run_name: fortunate-grub-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830481353
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/eb00a322f3534885b7a08d46ba3dd337/artifacts
+end_time: 1780826533651
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: eb00a322f3534885b7a08d46ba3dd337
+run_name: bedecked-owl-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826530390
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

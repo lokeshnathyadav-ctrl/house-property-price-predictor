@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ddfd8262320e46c6bbaa619c56d8ed78/artifacts
+end_time: 1780831523413
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ddfd8262320e46c6bbaa619c56d8ed78
+run_name: secretive-shad-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831520269
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

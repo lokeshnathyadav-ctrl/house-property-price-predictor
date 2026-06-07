@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/dedde5ef289f456f9132e8fad6cd6a9a/artifacts
+end_time: 1780832437608
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: dedde5ef289f456f9132e8fad6cd6a9a
+run_name: spiffy-croc-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832434228
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

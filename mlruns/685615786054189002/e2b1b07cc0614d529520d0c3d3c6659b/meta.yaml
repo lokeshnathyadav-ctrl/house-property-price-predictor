@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/e2b1b07cc0614d529520d0c3d3c6659b/artifacts
+end_time: 1780827635994
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: e2b1b07cc0614d529520d0c3d3c6659b
+run_name: mysterious-worm-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827632812
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

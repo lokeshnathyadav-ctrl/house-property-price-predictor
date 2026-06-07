@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/246a69c183294ddb99ab8956770113eb/artifacts
+end_time: 1780825825890
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 246a69c183294ddb99ab8956770113eb
+run_name: skittish-steed-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825822845
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

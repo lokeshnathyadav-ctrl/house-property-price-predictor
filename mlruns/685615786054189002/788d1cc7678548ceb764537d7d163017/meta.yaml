@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/788d1cc7678548ceb764537d7d163017/artifacts
+end_time: 1780829365191
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 788d1cc7678548ceb764537d7d163017
+run_name: capable-grub-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829361978
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

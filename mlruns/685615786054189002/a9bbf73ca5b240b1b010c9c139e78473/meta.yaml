@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a9bbf73ca5b240b1b010c9c139e78473/artifacts
+end_time: 1780826467334
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a9bbf73ca5b240b1b010c9c139e78473
+run_name: learned-moose-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826464213
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

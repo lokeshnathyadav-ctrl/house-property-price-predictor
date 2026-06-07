@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/68712bd53224494fa8228592f4762329/artifacts
+end_time: 1780827805139
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 68712bd53224494fa8228592f4762329
+run_name: gentle-yak-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827801877
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

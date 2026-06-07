@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/7543ca81e17049bf93aaed8a1925bcc0/artifacts
+end_time: 1780836735984
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 7543ca81e17049bf93aaed8a1925bcc0
+run_name: salty-newt-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836732700
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

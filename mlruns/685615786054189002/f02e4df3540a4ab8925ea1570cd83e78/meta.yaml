@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f02e4df3540a4ab8925ea1570cd83e78/artifacts
+end_time: 1780837562841
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f02e4df3540a4ab8925ea1570cd83e78
+run_name: clumsy-asp-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837559492
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/72d3cdb606794a39b725b2e1f5813717/artifacts
+end_time: 1780829271370
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 72d3cdb606794a39b725b2e1f5813717
+run_name: receptive-loon-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829268091
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

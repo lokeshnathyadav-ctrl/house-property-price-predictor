@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f4691d75052e4e5780b12c3663d3d678/artifacts
+end_time: 1780829325249
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f4691d75052e4e5780b12c3663d3d678
+run_name: zealous-penguin-820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829321999
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

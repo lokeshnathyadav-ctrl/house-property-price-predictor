@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f2aefa5acdd4494b99167aa6bcbd60aa/artifacts
+end_time: 1780832527050
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f2aefa5acdd4494b99167aa6bcbd60aa
+run_name: suave-hare-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832523549
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

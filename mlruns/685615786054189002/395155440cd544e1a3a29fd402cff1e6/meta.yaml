@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/395155440cd544e1a3a29fd402cff1e6/artifacts
+end_time: 1780837223317
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 395155440cd544e1a3a29fd402cff1e6
+run_name: sedate-gull-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837219955
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

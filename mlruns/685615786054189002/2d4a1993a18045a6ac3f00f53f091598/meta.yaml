@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/2d4a1993a18045a6ac3f00f53f091598/artifacts
+end_time: 1780831315326
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 2d4a1993a18045a6ac3f00f53f091598
+run_name: colorful-toad-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831312177
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

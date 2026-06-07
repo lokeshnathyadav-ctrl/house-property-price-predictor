@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/be514ecf12b34dfaa670a5d9c8f60642/artifacts
+end_time: 1780836230826
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: be514ecf12b34dfaa670a5d9c8f60642
+run_name: thundering-trout-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836227496
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

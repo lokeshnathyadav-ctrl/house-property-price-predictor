@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/1bdf6edb0b904447a76b181f39db000f/artifacts
+end_time: 1780835101115
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 1bdf6edb0b904447a76b181f39db000f
+run_name: gifted-crow-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835097732
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

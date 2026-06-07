@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/bb36140844904e11b0234ab07cf1c1dc/artifacts
+end_time: 1780836415192
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: bb36140844904e11b0234ab07cf1c1dc
+run_name: loud-koi-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836411865
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

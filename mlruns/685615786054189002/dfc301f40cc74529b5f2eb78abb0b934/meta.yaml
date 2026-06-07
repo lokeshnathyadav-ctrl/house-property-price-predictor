@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/dfc301f40cc74529b5f2eb78abb0b934/artifacts
+end_time: 1780827649422
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: dfc301f40cc74529b5f2eb78abb0b934
+run_name: victorious-cub-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827646463
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

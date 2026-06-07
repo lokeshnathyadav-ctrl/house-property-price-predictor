@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ba6cc58f01fc4d3ca7fdb870e3a6689f/artifacts
+end_time: 1780828025911
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ba6cc58f01fc4d3ca7fdb870e3a6689f
+run_name: sedate-bear-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828022580
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

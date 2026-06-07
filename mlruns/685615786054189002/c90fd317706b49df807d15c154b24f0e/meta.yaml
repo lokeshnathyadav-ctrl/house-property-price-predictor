@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/c90fd317706b49df807d15c154b24f0e/artifacts
+end_time: 1780831993607
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: c90fd317706b49df807d15c154b24f0e
+run_name: secretive-calf-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831990241
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

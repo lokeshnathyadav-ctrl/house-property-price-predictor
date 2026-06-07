@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/878ee1e702bd43ca972e8e7ed277392c/artifacts
+end_time: 1780830804524
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 878ee1e702bd43ca972e8e7ed277392c
+run_name: dashing-dog-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830801218
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

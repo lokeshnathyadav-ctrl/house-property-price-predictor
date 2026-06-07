@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/e9782800b67d4b0e8e910bae2c07b8be/artifacts
+end_time: 1780834949744
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: e9782800b67d4b0e8e910bae2c07b8be
+run_name: learned-shrew-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834946490
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

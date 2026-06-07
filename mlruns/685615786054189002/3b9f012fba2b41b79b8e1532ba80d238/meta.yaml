@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/3b9f012fba2b41b79b8e1532ba80d238/artifacts
+end_time: 1780833812134
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 3b9f012fba2b41b79b8e1532ba80d238
+run_name: dapper-conch-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833808966
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

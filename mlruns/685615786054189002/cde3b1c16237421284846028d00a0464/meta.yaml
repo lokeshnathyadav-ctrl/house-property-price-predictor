@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/cde3b1c16237421284846028d00a0464/artifacts
+end_time: 1780831179704
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: cde3b1c16237421284846028d00a0464
+run_name: nosy-bee-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831176420
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

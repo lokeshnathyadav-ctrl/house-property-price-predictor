@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/99c6ed4ce4454b1199d293c28c6a7b8a/artifacts
+end_time: 1780828593662
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 99c6ed4ce4454b1199d293c28c6a7b8a
+run_name: whimsical-shrew-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828590645
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/3be11debb29d4a8db4f073cfc08e720d/artifacts
+end_time: 1780826050118
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 3be11debb29d4a8db4f073cfc08e720d
+run_name: rogue-shrimp-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826047143
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

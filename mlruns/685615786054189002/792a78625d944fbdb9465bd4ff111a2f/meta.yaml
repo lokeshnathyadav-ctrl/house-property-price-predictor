@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/792a78625d944fbdb9465bd4ff111a2f/artifacts
+end_time: 1780825933502
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 792a78625d944fbdb9465bd4ff111a2f
+run_name: rumbling-finch-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825930295
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

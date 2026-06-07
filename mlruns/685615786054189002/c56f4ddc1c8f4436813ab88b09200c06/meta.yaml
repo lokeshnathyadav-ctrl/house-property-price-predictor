@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/c56f4ddc1c8f4436813ab88b09200c06/artifacts
+end_time: 1780829677557
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: c56f4ddc1c8f4436813ab88b09200c06
+run_name: redolent-stoat-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829674230
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

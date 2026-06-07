@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/abaf9c11e500479a8c78b6c639cc1686/artifacts
+end_time: 1780834225226
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: abaf9c11e500479a8c78b6c639cc1686
+run_name: placid-grouse-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834221927
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

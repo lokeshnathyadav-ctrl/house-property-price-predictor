@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/17d03e89f4144262a74bc1def6d6b917/artifacts
+end_time: 1780825857028
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 17d03e89f4144262a74bc1def6d6b917
+run_name: big-fish-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825854030
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

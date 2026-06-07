@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/3656e719c5da4485a6cf4e3433d6c9b6/artifacts
+end_time: 1780832119837
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 3656e719c5da4485a6cf4e3433d6c9b6
+run_name: sneaky-wren-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832116407
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

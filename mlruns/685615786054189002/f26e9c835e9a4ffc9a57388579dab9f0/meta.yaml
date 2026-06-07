@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f26e9c835e9a4ffc9a57388579dab9f0/artifacts
+end_time: 1780826484771
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f26e9c835e9a4ffc9a57388579dab9f0
+run_name: flawless-lark-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826481575
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

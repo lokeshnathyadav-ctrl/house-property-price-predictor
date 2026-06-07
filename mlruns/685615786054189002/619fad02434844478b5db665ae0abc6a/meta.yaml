@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/619fad02434844478b5db665ae0abc6a/artifacts
+end_time: 1780835974205
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 619fad02434844478b5db665ae0abc6a
+run_name: wise-fish-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835970909
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

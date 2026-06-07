@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b09c59d168ac4d62b10ab1ef8c7ecd2e/artifacts
+end_time: 1780827333232
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b09c59d168ac4d62b10ab1ef8c7ecd2e
+run_name: shivering-goose-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827329963
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

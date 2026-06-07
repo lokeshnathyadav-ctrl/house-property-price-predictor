@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/2c1a6b52673442eca9aceb4c38685d9c/artifacts
+end_time: 1780832203850
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 2c1a6b52673442eca9aceb4c38685d9c
+run_name: gregarious-whale-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832200475
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

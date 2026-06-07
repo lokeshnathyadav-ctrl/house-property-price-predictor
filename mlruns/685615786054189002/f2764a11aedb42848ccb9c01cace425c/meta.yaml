@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f2764a11aedb42848ccb9c01cace425c/artifacts
+end_time: 1780832353190
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f2764a11aedb42848ccb9c01cace425c
+run_name: beautiful-lynx-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832349906
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

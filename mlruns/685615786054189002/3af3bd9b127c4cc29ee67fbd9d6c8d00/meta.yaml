@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/3af3bd9b127c4cc29ee67fbd9d6c8d00/artifacts
+end_time: 1780835165629
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 3af3bd9b127c4cc29ee67fbd9d6c8d00
+run_name: monumental-quail-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835162280
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

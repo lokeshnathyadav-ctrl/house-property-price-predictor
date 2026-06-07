@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b355936f81a74740978daecdc36b9d25/artifacts
+end_time: 1780826623937
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b355936f81a74740978daecdc36b9d25
+run_name: capable-hound-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826619580
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

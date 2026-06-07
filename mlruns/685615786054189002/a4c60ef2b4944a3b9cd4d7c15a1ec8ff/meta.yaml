@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a4c60ef2b4944a3b9cd4d7c15a1ec8ff/artifacts
+end_time: 1780826950423
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a4c60ef2b4944a3b9cd4d7c15a1ec8ff
+run_name: shivering-gnat-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826947338
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

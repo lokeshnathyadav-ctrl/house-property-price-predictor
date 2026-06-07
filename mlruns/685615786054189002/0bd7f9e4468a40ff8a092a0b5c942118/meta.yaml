@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/0bd7f9e4468a40ff8a092a0b5c942118/artifacts
+end_time: 1780836795014
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 0bd7f9e4468a40ff8a092a0b5c942118
+run_name: monumental-cub-668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836791668
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/1b60044c5a714e7aa641e6b7f61d8e2f/artifacts
+end_time: 1780837487565
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 1b60044c5a714e7aa641e6b7f61d8e2f
+run_name: charming-elk-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837484159
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

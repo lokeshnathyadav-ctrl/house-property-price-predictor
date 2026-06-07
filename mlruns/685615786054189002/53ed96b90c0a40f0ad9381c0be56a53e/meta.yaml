@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/53ed96b90c0a40f0ad9381c0be56a53e/artifacts
+end_time: 1780832804580
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 53ed96b90c0a40f0ad9381c0be56a53e
+run_name: dapper-calf-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832801450
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a14ae5dd7d2946fbb98bed152a449ec7/artifacts
+end_time: 1780829438756
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a14ae5dd7d2946fbb98bed152a449ec7
+run_name: nimble-hare-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829435654
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

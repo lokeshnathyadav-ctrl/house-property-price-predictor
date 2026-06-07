@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/14e3d249fad74107aeff96be4fa1d766/artifacts
+end_time: 1780829266821
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 14e3d249fad74107aeff96be4fa1d766
+run_name: sedate-midge-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829263704
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

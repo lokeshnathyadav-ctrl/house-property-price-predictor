@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/9dcefd37c943481088835f75d20d8716/artifacts
+end_time: 1780835803285
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 9dcefd37c943481088835f75d20d8716
+run_name: nosy-worm-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835799834
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

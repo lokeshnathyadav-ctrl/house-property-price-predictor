@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/e0fa7b72603142aa976e26df57d069fe/artifacts
+end_time: 1780827201901
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: e0fa7b72603142aa976e26df57d069fe
+run_name: whimsical-grouse-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827198831
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

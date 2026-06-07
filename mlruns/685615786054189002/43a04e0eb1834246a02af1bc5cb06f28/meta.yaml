@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/43a04e0eb1834246a02af1bc5cb06f28/artifacts
+end_time: 1780837384255
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 43a04e0eb1834246a02af1bc5cb06f28
+run_name: monumental-finch-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837380877
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

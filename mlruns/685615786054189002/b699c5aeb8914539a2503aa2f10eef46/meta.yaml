@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b699c5aeb8914539a2503aa2f10eef46/artifacts
+end_time: 1780829155745
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b699c5aeb8914539a2503aa2f10eef46
+run_name: burly-calf-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829152573
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

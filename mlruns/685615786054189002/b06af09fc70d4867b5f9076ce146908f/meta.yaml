@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b06af09fc70d4867b5f9076ce146908f/artifacts
+end_time: 1780829244652
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b06af09fc70d4867b5f9076ce146908f
+run_name: abundant-donkey-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829241401
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

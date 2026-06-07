@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/9698669247a440b3ac144c8b1e39f67b/artifacts
+end_time: 1780834390358
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 9698669247a440b3ac144c8b1e39f67b
+run_name: learned-smelt-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834387071
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

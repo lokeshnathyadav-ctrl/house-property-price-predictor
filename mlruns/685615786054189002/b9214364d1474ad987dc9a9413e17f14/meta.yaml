@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b9214364d1474ad987dc9a9413e17f14/artifacts
+end_time: 1780836079705
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b9214364d1474ad987dc9a9413e17f14
+run_name: powerful-trout-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836076383
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

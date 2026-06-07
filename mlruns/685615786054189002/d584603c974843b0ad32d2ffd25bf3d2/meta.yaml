@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/d584603c974843b0ad32d2ffd25bf3d2/artifacts
+end_time: 1780831378728
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: d584603c974843b0ad32d2ffd25bf3d2
+run_name: omniscient-mare-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831375570
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

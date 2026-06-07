@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f451f1628cac4b589a0c6dbc52f46dda/artifacts
+end_time: 1780825906476
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f451f1628cac4b589a0c6dbc52f46dda
+run_name: angry-duck-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825903347
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

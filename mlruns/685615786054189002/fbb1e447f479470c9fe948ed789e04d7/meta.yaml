@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/fbb1e447f479470c9fe948ed789e04d7/artifacts
+end_time: 1780826280560
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: fbb1e447f479470c9fe948ed789e04d7
+run_name: smiling-shrimp-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826277377
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

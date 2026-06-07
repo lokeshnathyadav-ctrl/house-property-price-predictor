@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/eb4afbb082da42829e526943e587f55b/artifacts
+end_time: 1780826560233
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: eb4afbb082da42829e526943e587f55b
+run_name: vaunted-duck-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826557334
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

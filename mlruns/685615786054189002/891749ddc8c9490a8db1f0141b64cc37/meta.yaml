@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/891749ddc8c9490a8db1f0141b64cc37/artifacts
+end_time: 1780832451582
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 891749ddc8c9490a8db1f0141b64cc37
+run_name: sedate-colt-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832448387
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

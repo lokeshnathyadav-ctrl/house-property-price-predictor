@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/4bba3fa1783847dab4effcb1875c7d14/artifacts
+end_time: 1780828567033
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 4bba3fa1783847dab4effcb1875c7d14
+run_name: big-calf-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828563871
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

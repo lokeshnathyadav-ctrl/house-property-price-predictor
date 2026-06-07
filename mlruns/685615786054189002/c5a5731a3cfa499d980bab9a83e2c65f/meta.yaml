@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/c5a5731a3cfa499d980bab9a83e2c65f/artifacts
+end_time: 1780826396100
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: c5a5731a3cfa499d980bab9a83e2c65f
+run_name: loud-carp-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826392881
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

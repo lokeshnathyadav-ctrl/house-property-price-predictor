@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b25e2e60b77545cfb50df3e994452054/artifacts
+end_time: 1780826642957
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b25e2e60b77545cfb50df3e994452054
+run_name: bedecked-goat-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826638319
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

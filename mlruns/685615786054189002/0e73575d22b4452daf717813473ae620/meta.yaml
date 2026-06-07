@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/0e73575d22b4452daf717813473ae620/artifacts
+end_time: 1780826654703
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 0e73575d22b4452daf717813473ae620
+run_name: unleashed-grub-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826650630
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

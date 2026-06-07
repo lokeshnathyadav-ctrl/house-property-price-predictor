@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/cea98d84941144959c9e88adb4f1ff46/artifacts
+end_time: 1780827822868
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: cea98d84941144959c9e88adb4f1ff46
+run_name: nebulous-hawk-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827819749
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

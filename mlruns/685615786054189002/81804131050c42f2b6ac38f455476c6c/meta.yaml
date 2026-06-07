@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/81804131050c42f2b6ac38f455476c6c/artifacts
+end_time: 1780835248837
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 81804131050c42f2b6ac38f455476c6c
+run_name: gaudy-chimp-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835245457
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

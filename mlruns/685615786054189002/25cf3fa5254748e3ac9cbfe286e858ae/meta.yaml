@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/25cf3fa5254748e3ac9cbfe286e858ae/artifacts
+end_time: 1780837069301
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 25cf3fa5254748e3ac9cbfe286e858ae
+run_name: calm-carp-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837065908
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

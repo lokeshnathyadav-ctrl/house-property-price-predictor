@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a8fb35f40e8e4aa7af17337b66dfeee7/artifacts
+end_time: 1780835571752
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a8fb35f40e8e4aa7af17337b66dfeee7
+run_name: flawless-grouse-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835568508
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b6c3d254ee8a475a8b0ae45962d11d79/artifacts
+end_time: 1780830786632
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b6c3d254ee8a475a8b0ae45962d11d79
+run_name: fortunate-crab-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830783486
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

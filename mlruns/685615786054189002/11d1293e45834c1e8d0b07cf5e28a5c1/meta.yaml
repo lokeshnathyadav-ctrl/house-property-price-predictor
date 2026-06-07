@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/11d1293e45834c1e8d0b07cf5e28a5c1/artifacts
+end_time: 1780836116185
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 11d1293e45834c1e8d0b07cf5e28a5c1
+run_name: bedecked-skink-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836112927
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/18bbe7ad26c2498f9d4af2182688a986/artifacts
+end_time: 1780837663085
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 18bbe7ad26c2498f9d4af2182688a986
+run_name: sedate-quail-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837659663
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

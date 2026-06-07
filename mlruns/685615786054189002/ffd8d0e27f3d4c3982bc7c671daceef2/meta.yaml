@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ffd8d0e27f3d4c3982bc7c671daceef2/artifacts
+end_time: 1780826404880
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ffd8d0e27f3d4c3982bc7c671daceef2
+run_name: popular-chimp-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826401638
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

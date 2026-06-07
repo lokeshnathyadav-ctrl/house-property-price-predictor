@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ec17467e922c48f1b700577e0e9dfb2d/artifacts
+end_time: 1780837218662
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ec17467e922c48f1b700577e0e9dfb2d
+run_name: bright-goose-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837215365
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

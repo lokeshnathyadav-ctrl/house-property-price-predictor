@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/d31d050139104bfaa3435a419a310264/artifacts
+end_time: 1780831840397
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: d31d050139104bfaa3435a419a310264
+run_name: spiffy-flea-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831837056
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

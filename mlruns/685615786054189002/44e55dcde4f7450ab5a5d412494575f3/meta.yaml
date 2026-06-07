@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/44e55dcde4f7450ab5a5d412494575f3/artifacts
+end_time: 1780832587879
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 44e55dcde4f7450ab5a5d412494575f3
+run_name: whimsical-zebra-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832584424
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

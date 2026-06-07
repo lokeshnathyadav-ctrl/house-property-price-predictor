@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/531aad9bf4c04883b8c70372aecb8391/artifacts
+end_time: 1780829931155
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 531aad9bf4c04883b8c70372aecb8391
+run_name: bald-mare-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829927787
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

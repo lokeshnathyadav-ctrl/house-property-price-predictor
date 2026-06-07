@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/cb4ab535b7484d42aee82ccc33c0ffa3/artifacts
+end_time: 1780835770676
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: cb4ab535b7484d42aee82ccc33c0ffa3
+run_name: polite-carp-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835767336
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

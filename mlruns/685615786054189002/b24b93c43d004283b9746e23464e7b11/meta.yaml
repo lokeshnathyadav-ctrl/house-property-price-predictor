@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/b24b93c43d004283b9746e23464e7b11/artifacts
+end_time: 1780836348832
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: b24b93c43d004283b9746e23464e7b11
+run_name: invincible-fly-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836345343
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

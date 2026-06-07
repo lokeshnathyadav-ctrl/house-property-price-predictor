@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/84bdd1a7a0ac4db391abbb7005c09702/artifacts
+end_time: 1780830188656
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 84bdd1a7a0ac4db391abbb7005c09702
+run_name: bold-goose-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830185399
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

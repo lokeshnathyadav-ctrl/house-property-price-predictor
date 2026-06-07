@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/092abdd4435b469ab7253bf05e0f0f81/artifacts
+end_time: 1780831279276
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 092abdd4435b469ab7253bf05e0f0f81
+run_name: bouncy-doe-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831276011
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/9b3b4985321441cc8f0a0983f19f0a0d/artifacts
+end_time: 1780833664327
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 9b3b4985321441cc8f0a0983f19f0a0d
+run_name: debonair-calf-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833660946
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

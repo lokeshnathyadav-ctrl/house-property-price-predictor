@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f7426504c7f044f3a66e8f14a06ba031/artifacts
+end_time: 1780832823052
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f7426504c7f044f3a66e8f14a06ba031
+run_name: masked-stork-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780832819718
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

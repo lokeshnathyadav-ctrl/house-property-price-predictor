@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/1ce04a33bcc6424ca968cfe5cb456d0a/artifacts
+end_time: 1780826112063
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 1ce04a33bcc6424ca968cfe5cb456d0a
+run_name: carefree-toad-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826109158
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

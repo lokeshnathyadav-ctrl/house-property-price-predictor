@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/c363bc55b0c648e28368767b89b4bf90/artifacts
+end_time: 1780831084546
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: c363bc55b0c648e28368767b89b4bf90
+run_name: unruly-mare-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831081243
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

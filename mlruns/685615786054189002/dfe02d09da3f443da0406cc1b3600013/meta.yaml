@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/dfe02d09da3f443da0406cc1b3600013/artifacts
+end_time: 1780833908996
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: dfe02d09da3f443da0406cc1b3600013
+run_name: defiant-smelt-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833905825
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

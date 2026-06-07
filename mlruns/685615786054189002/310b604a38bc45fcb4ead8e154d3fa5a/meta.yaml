@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/310b604a38bc45fcb4ead8e154d3fa5a/artifacts
+end_time: 1780834798996
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 310b604a38bc45fcb4ead8e154d3fa5a
+run_name: serious-mule-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834795742
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

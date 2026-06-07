@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/28c12360fa7a4ef0bc10be9037ad7a22/artifacts
+end_time: 1780833848987
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 28c12360fa7a4ef0bc10be9037ad7a22
+run_name: welcoming-panda-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833845576
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

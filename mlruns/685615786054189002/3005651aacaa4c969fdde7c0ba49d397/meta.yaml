@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/3005651aacaa4c969fdde7c0ba49d397/artifacts
+end_time: 1780825893101
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 3005651aacaa4c969fdde7c0ba49d397
+run_name: loud-hawk-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825889783
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

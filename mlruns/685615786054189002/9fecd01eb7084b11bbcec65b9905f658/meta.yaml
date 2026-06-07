@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/9fecd01eb7084b11bbcec65b9905f658/artifacts
+end_time: 1780836120905
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 9fecd01eb7084b11bbcec65b9905f658
+run_name: stately-sponge-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836117416
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

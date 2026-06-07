@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/52c1361d29994c23b91a883014fae4ab/artifacts
+end_time: 1780833469551
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 52c1361d29994c23b91a883014fae4ab
+run_name: glamorous-smelt-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833466021
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

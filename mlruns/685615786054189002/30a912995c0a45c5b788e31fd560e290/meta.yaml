@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/30a912995c0a45c5b788e31fd560e290/artifacts
+end_time: 1780835327517
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 30a912995c0a45c5b788e31fd560e290
+run_name: bouncy-crow-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835324157
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

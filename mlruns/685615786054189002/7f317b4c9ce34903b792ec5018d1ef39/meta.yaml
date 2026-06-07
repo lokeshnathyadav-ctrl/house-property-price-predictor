@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/7f317b4c9ce34903b792ec5018d1ef39/artifacts
+end_time: 1780836557803
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 7f317b4c9ce34903b792ec5018d1ef39
+run_name: bedecked-fox-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836554493
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

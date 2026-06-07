@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ec323de0da074e598b2a41092a523a7e/artifacts
+end_time: 1780828536484
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ec323de0da074e598b2a41092a523a7e
+run_name: hilarious-boar-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828533338
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

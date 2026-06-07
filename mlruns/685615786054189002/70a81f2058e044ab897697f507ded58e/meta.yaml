@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/70a81f2058e044ab897697f507ded58e/artifacts
+end_time: 1780827355559
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 70a81f2058e044ab897697f507ded58e
+run_name: adaptable-goose-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827352393
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

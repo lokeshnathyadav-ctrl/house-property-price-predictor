@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/4b0984c56dc14a848ca396ee8cfdb973/artifacts
+end_time: 1780828290317
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 4b0984c56dc14a848ca396ee8cfdb973
+run_name: upbeat-crow-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828287209
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

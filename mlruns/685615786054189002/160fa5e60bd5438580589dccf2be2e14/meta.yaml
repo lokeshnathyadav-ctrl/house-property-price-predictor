@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/160fa5e60bd5438580589dccf2be2e14/artifacts
+end_time: 1780831383307
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 160fa5e60bd5438580589dccf2be2e14
+run_name: placid-vole-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831379971
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

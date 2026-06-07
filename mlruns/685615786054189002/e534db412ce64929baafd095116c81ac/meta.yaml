@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/e534db412ce64929baafd095116c81ac/artifacts
+end_time: 1780834637882
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: e534db412ce64929baafd095116c81ac
+run_name: crawling-panda-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834634531
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

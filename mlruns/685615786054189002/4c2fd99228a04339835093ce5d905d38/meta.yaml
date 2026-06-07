@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/4c2fd99228a04339835093ce5d905d38/artifacts
+end_time: 1780837658339
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 4c2fd99228a04339835093ce5d905d38
+run_name: salty-finch-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837654884
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

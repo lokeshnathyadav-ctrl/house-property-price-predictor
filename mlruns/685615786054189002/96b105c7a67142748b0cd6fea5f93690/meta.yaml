@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/96b105c7a67142748b0cd6fea5f93690/artifacts
+end_time: 1780827440282
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 96b105c7a67142748b0cd6fea5f93690
+run_name: capricious-shark-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827437317
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

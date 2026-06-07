@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/1b02cf9258af49da8839e0e3884b6f18/artifacts
+end_time: 1780836740504
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 1b02cf9258af49da8839e0e3884b6f18
+run_name: bittersweet-newt-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780836737265
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/bde66baee6d14b93a60a47ba7ee9954c/artifacts
+end_time: 1780831030072
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: bde66baee6d14b93a60a47ba7ee9954c
+run_name: melodic-swan-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831026797
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

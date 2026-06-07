@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/d971b9777fa74a1586a2154bcb1c25a3/artifacts
+end_time: 1780830480102
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: d971b9777fa74a1586a2154bcb1c25a3
+run_name: painted-elk-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830476890
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

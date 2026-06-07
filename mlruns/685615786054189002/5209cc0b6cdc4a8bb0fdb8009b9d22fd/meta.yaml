@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/5209cc0b6cdc4a8bb0fdb8009b9d22fd/artifacts
+end_time: 1780828378044
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 5209cc0b6cdc4a8bb0fdb8009b9d22fd
+run_name: charming-squid-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828374610
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

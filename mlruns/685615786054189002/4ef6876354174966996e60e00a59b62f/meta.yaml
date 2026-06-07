@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/4ef6876354174966996e60e00a59b62f/artifacts
+end_time: 1780825519436
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 4ef6876354174966996e60e00a59b62f
+run_name: whimsical-fly-762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825516481
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

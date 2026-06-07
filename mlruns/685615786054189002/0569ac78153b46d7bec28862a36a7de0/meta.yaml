@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/0569ac78153b46d7bec28862a36a7de0/artifacts
+end_time: 1780833802968
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 0569ac78153b46d7bec28862a36a7de0
+run_name: bald-newt-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833799599
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

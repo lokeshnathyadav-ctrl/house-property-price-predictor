@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/cb2fe55ce12e4c378498afb56b89bf7d/artifacts
+end_time: 1780837677210
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: cb2fe55ce12e4c378498afb56b89bf7d
+run_name: dapper-dolphin-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837673816
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

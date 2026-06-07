@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/d1fd1c05124e4389a965912c80cc66fa/artifacts
+end_time: 1780829307370
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: d1fd1c05124e4389a965912c80cc66fa
+run_name: learned-cow-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829304055
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

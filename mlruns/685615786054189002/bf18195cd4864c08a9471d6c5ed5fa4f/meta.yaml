@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/bf18195cd4864c08a9471d6c5ed5fa4f/artifacts
+end_time: 1780837100968
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: bf18195cd4864c08a9471d6c5ed5fa4f
+run_name: tasteful-fly-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837097650
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

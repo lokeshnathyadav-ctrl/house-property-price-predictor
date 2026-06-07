@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/714092b27de64f358958f643da3b23c9/artifacts
+end_time: 1780826693546
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 714092b27de64f358958f643da3b23c9
+run_name: classy-tern-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826690565
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

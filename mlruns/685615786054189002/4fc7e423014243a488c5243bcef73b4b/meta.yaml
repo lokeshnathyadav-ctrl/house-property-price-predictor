@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/4fc7e423014243a488c5243bcef73b4b/artifacts
+end_time: 1780825794700
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 4fc7e423014243a488c5243bcef73b4b
+run_name: beautiful-bird-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825791562
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

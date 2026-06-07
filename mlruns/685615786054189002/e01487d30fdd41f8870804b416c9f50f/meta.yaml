@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/e01487d30fdd41f8870804b416c9f50f/artifacts
+end_time: 1780828789590
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: e01487d30fdd41f8870804b416c9f50f
+run_name: dapper-shrike-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828786373
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

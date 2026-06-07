@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/e6d74ea1213340b388c72d2927d78562/artifacts
+end_time: 1780827476005
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: e6d74ea1213340b388c72d2927d78562
+run_name: loud-stoat-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827472825
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

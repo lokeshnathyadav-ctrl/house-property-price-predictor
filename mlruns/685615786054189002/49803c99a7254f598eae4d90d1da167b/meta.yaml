@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/49803c99a7254f598eae4d90d1da167b/artifacts
+end_time: 1780831011871
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 49803c99a7254f598eae4d90d1da167b
+run_name: unleashed-trout-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831008761
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

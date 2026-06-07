@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/5f4e990b961e4fc7afa5b5c38c8a3cf5/artifacts
+end_time: 1780837473506
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 5f4e990b961e4fc7afa5b5c38c8a3cf5
+run_name: salty-shrimp-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837470081
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

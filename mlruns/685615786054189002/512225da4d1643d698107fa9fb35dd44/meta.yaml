@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/512225da4d1643d698107fa9fb35dd44/artifacts
+end_time: 1780830252474
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 512225da4d1643d698107fa9fb35dd44
+run_name: skittish-crow-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830249211
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

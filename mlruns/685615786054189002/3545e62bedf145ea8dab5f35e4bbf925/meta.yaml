@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/3545e62bedf145ea8dab5f35e4bbf925/artifacts
+end_time: 1780829785958
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 3545e62bedf145ea8dab5f35e4bbf925
+run_name: puzzled-hare-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829782672
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

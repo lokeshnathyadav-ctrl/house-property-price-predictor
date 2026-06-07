@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/aa0b1ae2688c4d1097e58adac79b7f41/artifacts
+end_time: 1780825506513
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: aa0b1ae2688c4d1097e58adac79b7f41
+run_name: blushing-swan-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825503419
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

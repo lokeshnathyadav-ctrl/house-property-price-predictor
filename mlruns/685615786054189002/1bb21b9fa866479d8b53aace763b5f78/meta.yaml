@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/1bb21b9fa866479d8b53aace763b5f78/artifacts
+end_time: 1780833775379
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 1bb21b9fa866479d8b53aace763b5f78
+run_name: gifted-ram-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833772036
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

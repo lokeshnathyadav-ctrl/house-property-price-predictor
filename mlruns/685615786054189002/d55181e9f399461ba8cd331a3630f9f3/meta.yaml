@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/d55181e9f399461ba8cd331a3630f9f3/artifacts
+end_time: 1780827520287
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: d55181e9f399461ba8cd331a3630f9f3
+run_name: learned-deer-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827517278
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

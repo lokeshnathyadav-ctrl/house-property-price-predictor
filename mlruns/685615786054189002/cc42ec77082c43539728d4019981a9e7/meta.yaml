@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/cc42ec77082c43539728d4019981a9e7/artifacts
+end_time: 1780828576204
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: cc42ec77082c43539728d4019981a9e7
+run_name: enthused-yak-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828573078
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

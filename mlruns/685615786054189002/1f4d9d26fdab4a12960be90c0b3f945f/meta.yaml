@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/1f4d9d26fdab4a12960be90c0b3f945f/artifacts
+end_time: 1780826471780
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 1f4d9d26fdab4a12960be90c0b3f945f
+run_name: casual-fish-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780826468689
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

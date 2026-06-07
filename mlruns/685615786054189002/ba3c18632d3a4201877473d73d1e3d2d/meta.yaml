@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ba3c18632d3a4201877473d73d1e3d2d/artifacts
+end_time: 1780834656073
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ba3c18632d3a4201877473d73d1e3d2d
+run_name: bold-fish-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834652739
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

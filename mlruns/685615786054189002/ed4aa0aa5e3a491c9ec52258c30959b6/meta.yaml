@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ed4aa0aa5e3a491c9ec52258c30959b6/artifacts
+end_time: 1780829776924
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ed4aa0aa5e3a491c9ec52258c30959b6
+run_name: sincere-worm-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829773735
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

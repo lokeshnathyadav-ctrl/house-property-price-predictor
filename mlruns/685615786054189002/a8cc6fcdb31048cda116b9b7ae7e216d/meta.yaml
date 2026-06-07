@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a8cc6fcdb31048cda116b9b7ae7e216d/artifacts
+end_time: 1780830845089
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a8cc6fcdb31048cda116b9b7ae7e216d
+run_name: secretive-vole-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830841851
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

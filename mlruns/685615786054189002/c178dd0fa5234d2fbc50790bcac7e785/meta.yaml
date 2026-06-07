@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/c178dd0fa5234d2fbc50790bcac7e785/artifacts
+end_time: 1780835174812
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: c178dd0fa5234d2fbc50790bcac7e785
+run_name: polite-zebra-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835171480
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

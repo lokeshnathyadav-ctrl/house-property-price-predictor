@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/7e0aeb44a21c4853abc679442ced9d2a/artifacts
+end_time: 1780837232376
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 7e0aeb44a21c4853abc679442ced9d2a
+run_name: polite-flea-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780837229114
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

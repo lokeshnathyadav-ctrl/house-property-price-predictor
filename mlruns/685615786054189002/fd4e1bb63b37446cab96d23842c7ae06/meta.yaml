@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/fd4e1bb63b37446cab96d23842c7ae06/artifacts
+end_time: 1780829579022
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: fd4e1bb63b37446cab96d23842c7ae06
+run_name: wise-stork-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829575639
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

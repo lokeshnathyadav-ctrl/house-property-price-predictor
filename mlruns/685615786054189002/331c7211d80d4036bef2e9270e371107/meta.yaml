@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/331c7211d80d4036bef2e9270e371107/artifacts
+end_time: 1780831500353
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 331c7211d80d4036bef2e9270e371107
+run_name: abrasive-bug-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780831496949
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

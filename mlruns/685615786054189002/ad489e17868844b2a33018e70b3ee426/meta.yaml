@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ad489e17868844b2a33018e70b3ee426/artifacts
+end_time: 1780835373667
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ad489e17868844b2a33018e70b3ee426
+run_name: redolent-seal-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780835370297
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

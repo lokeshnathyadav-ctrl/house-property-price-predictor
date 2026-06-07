@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/bb5c38a6c3f5471086c9bc36fdeb8af1/artifacts
+end_time: 1780827511516
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: bb5c38a6c3f5471086c9bc36fdeb8af1
+run_name: burly-fowl-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827508232
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

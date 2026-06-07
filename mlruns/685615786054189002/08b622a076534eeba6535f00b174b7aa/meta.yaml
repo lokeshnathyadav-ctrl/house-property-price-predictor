@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/08b622a076534eeba6535f00b174b7aa/artifacts
+end_time: 1780833294118
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 08b622a076534eeba6535f00b174b7aa
+run_name: defiant-quail-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833290664
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

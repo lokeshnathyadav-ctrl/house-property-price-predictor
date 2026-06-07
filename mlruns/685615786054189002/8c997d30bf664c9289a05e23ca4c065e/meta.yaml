@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/8c997d30bf664c9289a05e23ca4c065e/artifacts
+end_time: 1780834935904
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 8c997d30bf664c9289a05e23ca4c065e
+run_name: upset-frog-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834932573
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

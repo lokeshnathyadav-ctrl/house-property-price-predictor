@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/ee0bb5279e864b2b98389cc76864f1d6/artifacts
+end_time: 1780829650405
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: ee0bb5279e864b2b98389cc76864f1d6
+run_name: rare-hog-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780829647315
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

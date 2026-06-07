@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a605860a556b45f4bb764b2c5f32bbfd/artifacts
+end_time: 1780828354897
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a605860a556b45f4bb764b2c5f32bbfd
+run_name: hilarious-wasp-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828351737
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

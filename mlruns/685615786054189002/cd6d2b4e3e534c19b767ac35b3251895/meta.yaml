@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/cd6d2b4e3e534c19b767ac35b3251895/artifacts
+end_time: 1780827605035
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: cd6d2b4e3e534c19b767ac35b3251895
+run_name: bedecked-calf-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780827601801
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

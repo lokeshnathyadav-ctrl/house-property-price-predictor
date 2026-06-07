@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a4a7ca0b3b7940ed956cb542e29c1bf2/artifacts
+end_time: 1780828080451
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a4a7ca0b3b7940ed956cb542e29c1bf2
+run_name: bouncy-grouse-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828077428
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/812fce18390f44f78c3d9bf3981b0117/artifacts
+end_time: 1780834280114
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 812fce18390f44f78c3d9bf3981b0117
+run_name: blushing-ray-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834276732
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

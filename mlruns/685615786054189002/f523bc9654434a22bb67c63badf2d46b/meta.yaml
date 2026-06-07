@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/f523bc9654434a22bb67c63badf2d46b/artifacts
+end_time: 1780830134458
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: f523bc9654434a22bb67c63badf2d46b
+run_name: bustling-grub-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780830131129
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

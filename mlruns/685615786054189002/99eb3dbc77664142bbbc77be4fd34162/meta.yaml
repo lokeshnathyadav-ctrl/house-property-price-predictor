@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/99eb3dbc77664142bbbc77be4fd34162/artifacts
+end_time: 1780833418545
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 99eb3dbc77664142bbbc77be4fd34162
+run_name: bemused-toad-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833415150
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

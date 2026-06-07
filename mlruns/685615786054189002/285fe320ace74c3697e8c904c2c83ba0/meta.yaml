@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/285fe320ace74c3697e8c904c2c83ba0/artifacts
+end_time: 1780828157793
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 285fe320ace74c3697e8c904c2c83ba0
+run_name: resilient-cod-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780828154404
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

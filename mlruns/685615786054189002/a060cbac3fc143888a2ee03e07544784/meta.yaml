@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/a060cbac3fc143888a2ee03e07544784/artifacts
+end_time: 1780834110323
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: a060cbac3fc143888a2ee03e07544784
+run_name: selective-crane-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834106975
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/685615786054189002/33f66fa38ed84a268cb49f9fb9a35a2e/artifacts
+end_time: 1780834465537
+entry_point_name: ''
+experiment_id: '685615786054189002'
+lifecycle_stage: active
+run_id: 33f66fa38ed84a268cb49f9fb9a35a2e
+run_name: dapper-fish-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780834462291
+status: 3
+tags: []
+user_id: B LOKESHNATH YADAV
