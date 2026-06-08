@@ -1,12 +1,12 @@
 name: House Price Prediction Model Pipeline
 
-on:
+on: 91e3d325
 
   push:
 
     branches:
 
-      - main 
+      -  
   jobs:
     register-dataset:
 
