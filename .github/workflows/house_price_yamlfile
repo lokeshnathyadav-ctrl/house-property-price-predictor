@@ -1,6 +1,6 @@
 name: House Price Prediction Model Pipeline
 
-on: 91e3d325
+on: main
 
   push:
 
