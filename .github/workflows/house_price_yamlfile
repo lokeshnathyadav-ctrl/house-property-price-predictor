@@ -1,4 +1,5 @@
-name: House Price Prediction Model Pipeline
+name: Model Pipeline
+
 on:
   push:
     branches:
