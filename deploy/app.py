@@ -6,7 +6,7 @@ model_path = hf_hub_download(repo_id = "Lokeshnathy/best-model-boston-house-pric
                              filename = "best_house_price_predictor_model_v1.joblib")
 model = joblib.load(model_path)
 # Streamlit UI
-st.title("Boston Housing - Price Prediction")
+st.title("Boston Housing🏡 Property Price💵 Predictor")
 st.subheader("Online Property Price Prediction App.")
 st.write("This App is an internal tool kit meant for the Boston Housing corp. management to check the price of a housing property.")
 st.write("Kindly enter the property details to start predicting the prices.")
